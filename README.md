@@ -35,7 +35,7 @@ app.enable('trust proxy')
 
 app.use((req, res, next) => {
   let ip = req.ip || req.connection.remoteAddress
-  isGoogle(ip).then(outcome => {
+  isApple(ip).then(outcome => {
     if (outcome) {
       res.status(404).text('Nothing to scan') // block apple crawler
     } else {
