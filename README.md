@@ -3,7 +3,6 @@
 [![NPM Version](https://img.shields.io/npm/v/is-apple.svg)](https://www.npmjs.com/package/is-apple)
 [![Build Status](https://travis-ci.org/roccomuso/is-apple.svg?branch=master)](https://travis-ci.org/roccomuso/is-apple)
 ![node](https://img.shields.io/node/v/is-apple.svg)
-[![Dependency Status](https://david-dm.org/roccomuso/is-apple.png)](https://david-dm.org/roccomuso/is-apple)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 > Verify that a request is from Apple crawlers using Apple's DNS verification steps
